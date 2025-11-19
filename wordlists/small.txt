@@ -1,0 +1,10 @@
+admin
+backup
+test
+uploads
+api
+storage
+logs
+images
+old
+public
